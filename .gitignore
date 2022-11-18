@@ -1,0 +1,5 @@
+.local/
+benches/
+
+hyperfine.text.json
+hyperfine.text.results
